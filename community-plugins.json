@@ -19150,5 +19150,12 @@
     "author": "marcelflymark",
     "description": "Insert line breaks into tables on mobile devices via shortcut or toolbar.",
     "repo": "marcelflymark/new-line-break-inside-table-cell"
+  },
+  {
+    "id": "top-pane-navigator",
+    "name": "Top Pane Navigator",
+    "author": "ENable1",
+    "description": "Navigation and managing of Tabs and Panes.",
+    "repo": "ENable1/Tab-Pane-Navigator"
   }
 ]
